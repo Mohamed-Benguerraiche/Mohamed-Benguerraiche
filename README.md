@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and DevOps
 - 🌱 I’m currently learning anything I can learn (but I'm having an affair with Python, don't tell PHP...)
 - 💞️ I’m looking to collaborate on open source projects, cause I love open softwares! 
-- 📫 How to reach me.. I will find you.
+- 📫 How to reach me.. here!
 
 <!---
 Mohamed-Benguerraiche/Mohamed-Benguerraiche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
